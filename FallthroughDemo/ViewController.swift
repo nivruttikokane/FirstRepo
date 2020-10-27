@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     
         default :
             print("100")
+            print("50")
     }
 
 
